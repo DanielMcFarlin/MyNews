@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My News</string>
+    <string name="more_info_img">Click For More Info!</string>
+    <string name="no_articles">No Articles Were Found\nPlease Click On Search Icon To Begin</string>
+    <string name="no_internet">No Internet Connection :(</string>
+    <string name="search_menu_item">Search</string>
+    <string name="search_key">search</string>
+    <string name="search_default">Trump</string>
+    <string name="search_title">Search</string>
+    <string name="search_terms_label">Currently Searching For:</string>
+
+</resources>
