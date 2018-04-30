@@ -3,7 +3,7 @@ News app for Udacity NanoDegree (Using Guradian API)
 
 
 Inital View
- ![image](https://user-images.githubusercontent.com/30839650/39452283-4f0859e0-4c97-11e8-9e40-e44d71339c45.png)
+ ![image](https://user-images.githubusercontent.com/30839650/39452466-fd19354a-4c97-11e8-9d2e-fbe2f9e05ffa.png)
 
 
 After Search is clicked
